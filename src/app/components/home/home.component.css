@@ -1,0 +1,25 @@
+
+.header{
+    background: linear-gradient(180deg, #5454c5, #639cd9);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.content-section {
+    flex-grow: 1;
+  }
+.navbar-brand{
+    color: #ffff;
+}
+.text{
+color:#ffff;
+}
+.fa-solid{
+    height: 32px;
+    width: 32px;
+    margin-bottom: 16px;
+    padding: 6px;
+    color: #205ff1;
+}
