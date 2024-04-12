@@ -1,6 +1,6 @@
 
 .header{
-    background: linear-gradient(180deg, #5454c5, #639cd9);
+    background: linear-gradient(180deg, #60a0b0, #639cd9, #342056);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -13,6 +13,9 @@
 .navbar-brand{
     color: #ffff;
 }
+.nav-link{
+    color: #ffff;
+}
 .text{
 color:#ffff;
 }
@@ -21,5 +24,15 @@ color:#ffff;
     width: 32px;
     margin-bottom: 16px;
     padding: 6px;
-    color: #205ff1;
+    color: #639cd9;
+}
+.btn{
+    background-color: #342056;
+    color: #ffff;
+}
+.buttons{
+    background-color: #639cd9;
+    color: #ffff;
+    border: none;
+
 }
