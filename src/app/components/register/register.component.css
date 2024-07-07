@@ -1,0 +1,16 @@
+h3{
+    text-align: center;
+}
+.container-fluid{
+    background: linear-gradient(180deg, #F2D2BD,#9F2B68, #DE3163);
+    min-height: 100vh;
+}
+.container{
+    margin-top: 5%;
+}
+.btn{
+    margin-top: 1%;
+    width: 20%;
+    margin-left: 40%;
+    background-color: #DE3163;
+}

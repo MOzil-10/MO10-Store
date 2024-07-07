@@ -1,11 +1,14 @@
 
 .header{
-    background: linear-gradient(180deg, #60a0b0, #639cd9, #342056);
+    background: linear-gradient(180deg, #F2D2BD,#9F2B68, #DE3163);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 
+}
+.lead{
+    color: #F2D2BD;
 }
 .content-section {
     flex-grow: 1;
@@ -24,14 +27,14 @@ color:#ffff;
     width: 32px;
     margin-bottom: 16px;
     padding: 6px;
-    color: #639cd9;
+    color:#DE3163;
 }
 .btn{
     background-color: #342056;
     color: #ffff;
 }
 .buttons{
-    background-color: #639cd9;
+    background-color: #DE3163;
     color: #ffff;
     border: none;
 
